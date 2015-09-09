@@ -1,2 +1,2 @@
 # dependencies-useful-scripts
-Dependencies for code in other repos, and some generally useful scripts.
+Dependencies for code in other repos, and some generally useful scripts. Many of the MATLAB scripts in this repo are borrowed, either with modifications (as noted) or in unmodified form, from Dave Glover, Scott Doney, and Bill Jenkins, the instructors of the Modeling, Data Analysis and Numerical Techniques for Geochemistry course (12.747) at MIT. Original versions of scripts are available at http://www.whoi.edu/12.747/mfiles.html (link valid as of 9/9/15)
