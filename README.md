@@ -11,4 +11,4 @@ These include several scripts for linear and non-linear regression:
 4. nlleasqr.m, for non-linear least squares regression of (nearly) any function specified by the user
 
 <h2>Scripts for geosciences data I/O</h2>
-Several scripts for data input/output and various rudimentary follow-on analyses. Most for stuff in oceanography and the earth sciences (since I'm an oceanographer). These have been moved to https://github.com/jamesrco/GeoSci_IO/
+Several scripts for data input/output and various rudimentary follow-on analyses. Most for stuff in oceanography and the earth sciences (since I'm an oceanographer). These have been moved to https://github.com/jamesrco/GeoSciData_IO/
