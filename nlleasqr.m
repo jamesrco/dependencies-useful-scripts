@@ -217,10 +217,7 @@ p=pbest;
 f=fbest;
 ss=sbest;
 kvg=((sbest>sgoal)|(sbest<=eps)|kvg);
-
-% ********* temporarily disabled
-% if kvg ~= 1 , disp(' CONVERGENCE NOT ACHIEVED! '), end;
-% ********* temporarily disabled
+if kvg ~= 1 , disp(' CONVERGENCE NOT ACHIEVED! '), end;
 
 % CALC VARIANCE COV MATRIX AND CORRELATION MATRIX OF PARAMETERS
 % re-evaluate the Jacobian at optimal values
